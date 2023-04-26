@@ -7,7 +7,7 @@ const path = require("path");
  * CONFIGS
  */
 const ignoreFolders = [".git", "node_modules"];
-const directory = "simple-directory";
+const directory = "Daten";
 const outFile = "results.json";
 
 // Declare data-list
